@@ -24,7 +24,7 @@ function login($email, $password) {
   }
 
   $row = $result->fetch_array();
-
+  
   if($row[0] == 1) {
     return 'admin';
   } else {
@@ -100,3 +100,4 @@ function check_admin_user() {
   }
 }
 ?>
+
