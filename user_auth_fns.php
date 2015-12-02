@@ -100,4 +100,3 @@ function check_admin_user() {
   }
 }
 ?>
-
