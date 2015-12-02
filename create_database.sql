@@ -49,5 +49,5 @@ on mlm.*
 to mlm@localhost identified by 'password';
 
 insert into subscribers values
-('2511632600@qq.com', 'administrator', 'H', sha1('admin'), 1);
+('**********@qq.com', 'administrator', 'H', sha1('admin'), 1);
 
